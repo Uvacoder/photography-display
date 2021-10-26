@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/ramswaroop/photography/issues"
   },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "homepage": "https://uvacoder.github.io/photography-display/",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^4.0.2",
